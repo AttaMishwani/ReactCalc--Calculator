@@ -2,6 +2,7 @@ import styles from "./App.module.css";
 import ButtonsContainer from "./components/ButtonsContainer";
 import Display from "./components/Display";
 import { useState } from "react";
+import Heading from "./components/Heading";
 
 function App() {
   // useState hook to manage the current value displayed on the calculator
@@ -30,6 +31,7 @@ function App() {
 
   return (
     <>
+      <Heading></Heading>
       <div className={styles.calculator}>
         {/* Display component to show the current value */}
         <Display DisplayValue={calVal}></Display>

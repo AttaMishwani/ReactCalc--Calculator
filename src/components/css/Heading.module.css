@@ -1,0 +1,10 @@
+.heading {
+    font-size: 500;
+    /* margin-top: 10px; */
+    margin: 10px auto;
+    color: white;
+    background-color: rgb(35, 180, 247);
+    width: fit-content;
+    padding: 5px 15px;
+    border-radius: 20px;
+}

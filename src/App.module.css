@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
     background-color: #09cbfe;
 
 }
@@ -14,7 +14,7 @@
     background-color: white;
     width: 250px;
     border-radius: 20px;
-    margin: 2rem auto;
+    margin: 1rem auto;
     padding-top: 1rem;
     padding-bottom: 10px;
     box-shadow: 0 0 10px rgba(32, 8, 243, 0.747);
