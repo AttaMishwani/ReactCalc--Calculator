@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    background-color: #09cbfe;
+
+}
+
+
+.calculator {
+    /* background-color: red; */
+
+    background-color: white;
+    width: 250px;
+    border-radius: 20px;
+    margin: 2rem auto;
+    padding-top: 1rem;
+    padding-bottom: 10px;
+    box-shadow: 0 0 10px rgba(32, 8, 243, 0.747);
+    overflow: hidden;
+}
+
+
+
+
+/* .button {
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+} */

@@ -1,0 +1,14 @@
+.display {
+    width: 92%;
+    margin: 10px;
+    font-size: 25px;
+    background-color: rgb(248, 245, 245);
+    color: rgb(134, 131, 131);
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 3px 8px;
+    height: 60px;
+    cursor: none;
+
+}
