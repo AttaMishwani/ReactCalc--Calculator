@@ -1,7 +1,3 @@
-Yes, you can include all the provided information in your README file. Here's the updated README with the live link included:
-
----
-
 # ReactCalc - Calculator 📱💻
 
 Welcome to **ReactCalc**! This is a sleek and responsive calculator built with React, designed to provide a smooth and intuitive user experience. Whether you're crunching numbers for work, school, or daily life, ReactCalc is here to help! 🎉
@@ -102,9 +98,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License 📄
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 
@@ -112,6 +105,3 @@ Atta Ur Rehman - [LinkedIn](https://www.linkedin.com/in/atta-ur-rehman-mishwani-
 
 Project Link: [https://github.com/AttaMishwani/ReactCalc--Calculator](https://github.com/AttaMishwani/ReactCalc--Calculator)
 
----
-
-Feel free to copy this entire content into your README file. It includes all the details about your project along with the live demo link.
